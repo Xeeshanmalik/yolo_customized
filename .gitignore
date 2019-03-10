@@ -1,2 +1,3 @@
 dataset/*
 darknet/predictions.jpg
+darknet/labels/dog.jog
